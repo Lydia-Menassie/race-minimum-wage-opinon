@@ -1,6 +1,6 @@
 # Public Opinion & Labor Policy: Does self-identified race affect opinion on minimum wage?
 
-This repository contains code and data for my research paper in a Research & Analysis course at Oberlin College. This paper measures a possible correlation between an individuals' self-identified race to their opinion on raising the minimum wage.
+This repository contains script for my research paper in a Research & Analysis course at Oberlin College. This paper measures a possible correlation between an individuals' self-identified race to their opinion on raising the minimum wage.
 
 **Links**
 
