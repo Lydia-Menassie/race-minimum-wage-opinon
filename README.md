@@ -4,4 +4,4 @@ This repository contains script for my research paper in a Research & Analysis c
 
 **Links**
 
-1. View data at [American National Election Studies 2020](https://electionstudies.org/data-center/2020-time-series-study/)
+1. View data at [American National Election Studies 2020](https://electionstudies.org/data-center/2020-time-series-study/).
