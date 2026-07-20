@@ -44,7 +44,7 @@ table(anes$nonwhite)
 chisq.test(anes$min_wage, anes$race)
 
 
-# linear regression:
+#linear regression:
 #DV: opinion, IV: nonwhite
 wage.lm <- lm(min_wage~nonwhite, data=anes)
 summary(wage.lm)
